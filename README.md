@@ -52,7 +52,7 @@
 | **Docker - русскоговорящее сообщество** |  | Обсуждаем вопросы, посвященные Docker, Docker Swarm и всей экосистеме. Обмениваем идеями, новостями и решаем пробемы. | Telegram: https://t.me/docker_ru |  |
 | **Ember Chat** | [![Dev UA](./communities/dev-ua.png)](https://gitter.im/orgs/dev-ua/rooms) [Dev UA](https://gitter.im/orgs/dev-ua/rooms) | EmberJS | Gitter: https://gitter.im/dev-ua/ember |  |
 | **Erlang / Elixir** |  | Erlang, Elixir | Slack: http://otp-russian.herokuapp.com/<br>Telegram: https://telegram.me/proelixir | Be nice. |
-| **Русскоязычное сообщество ES6** |  | EcmaScript, JavaScript | Telegram: https://telegram.me/es6_ru | Non-toxic |
+| **Русскоязычное сообщество ES6** |   | EcmaScript, JavaScript | Telegram: https://telegram.me/es6_ru | Non-toxic |
 | **Русскоязычное сообщество F#** | [![fsharplang-ru](https://fsharplang-ru.github.io/img/min_logo.png)](https://github.com/fsharplang-ru) [fsharplang-ru](https://github.com/fsharplang-ru) | F# | Gitter: https://gitter.im/fsharplang_ru/Lobby<br>Telegram: https://t.me/Fsharp_chat |  |
 | **Русскоязычное Xamarin сообщество** |  | .NET, Xamarin, Android, iOS, Windows 10 | Telegram: https://t.me/xamarin_russia |  |
 | **Русскоязычное .NET сообщество** | [![DotNet.Ru](https://pbs.twimg.com/profile_images/887076782599483393/q_33AEb__400x400.jpg)](http://dotnet.ru/) [DotNet.Ru](http://dotnet.ru/) | .NET, C#, F# | Telegram: https://t.me/DotNetRuChat |  |
