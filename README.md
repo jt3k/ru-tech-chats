@@ -121,7 +121,7 @@
 | **pgsql – PostgreSQL** |  | Telegram чат о PostgreSQL | Telegram: https://t.me/pgsql |  |
 | **pro.asm** |  | Assembler, реверс | Telegram: https://t.me/proasm |  |
 | **pro.cxx** |  | С/С++ (не для новичков) | Telegram: https://t.me/ProCxx |  |
-| **pro.js** | [![proDOT](./communities/prodot.jpg)](https://telegram.me/proDOT) [proDOT](https://telegram.me/proDOT) | Javascript, Node.js и многое-многое другое | Telegram: https://telegram.me/joinchat/Be4rsT5Rsgq30DHutjxXgA |  |
+| **pro.js** | [![proDOT](./communities/prodot.jpg)](https://telegram.me/proDOT) [proDOT](https://telegram.me/proDOT) | Javascript, Node.js и многое-многое другое | Telegram: https://t.me/joinchat/BZFIe0eM7pERUm35dZy4Cg |  |
 | **pro.python** | [![proDOT](./communities/prodot.jpg)](https://telegram.me/proDOT) [proDOT](https://telegram.me/proDOT) | Сообщество разработчиков под Python | Telegram: https://telegram.me/joinchat/A7kPxzx_o8HpyxsxTskU7g |  |
 | **pro.jvm** | [![proDOT](./communities/prodot.jpg)](https://telegram.me/proDOT) [proDOT](https://telegram.me/proDOT) | Сообщество разработчиков под JVM и Android, Java, Scala, Kotlin, Groovy, Clojure | Telegram: https://telegram.me/jvmchat |  |
 | **pro.lua** | [![proDOT](./communities/prodot.jpg)](https://telegram.me/proDOT) [proDOT](https://telegram.me/proDOT) | Правила чата: Тут можно обсуждать все, что связанно с луа - движки, интерпретаторы/компиляторы, питухан-биндинги, скрипты на сталкер: Тени Чернобыля и пр. Запрещена реклама! Срачи и оффтоп не желательны. | Telegram: https://telegram.me/ProLua |  |
